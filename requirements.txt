@@ -8,3 +8,8 @@ langchain-google-vertexai
 
 python-dotenv
 ipykernel
+
+
+langgraph
+langsmith
+langchain_tavily
